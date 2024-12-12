@@ -1,1 +1,1 @@
-Notebook demonstrating creation of various python functions as part of a Cambridge Spark data analytics course.  
+This notebook solves several problems using python functions as part of a Cambridge Spark data analytics course.  
